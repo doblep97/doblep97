@@ -39,18 +39,18 @@ Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas 
 🔗 [Repositorio](https://github.com/doblep97/investments_app)  
 
 <p align="center">
-  <img src="./assets/savements_app/ahorros_1.png" width="400"/>
-  <img src="./assets/savements_app/ahorro_5.png" width="400"/>
+  <img src="./assets/savements_app/ahorro1.png" width="400"/>
+  <img src="./assets/savements_app/ahorro2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro_2.png" width="400"/>
-  <img src="./assets/savements_app/ahorro_3.png" width="400"/>
+  <img src="./assets/savements_app/ahorro3.png" width="400"/>
+  <img src="./assets/savements_app/ahorro4.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro_6.png" width="400"/>
-  <img src="./assets/savements_app/ahorro_4.png" width="400"/>
+  <img src="./assets/savements_app/ahorro5.png" width="400"/>
+  <img src="./assets/savements_app/ahorro6.png" width="400"/>
 </p>
 
 
