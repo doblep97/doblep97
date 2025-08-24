@@ -27,44 +27,55 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 
 ### 🚀 Proyectos personales
 
-#### 📊 Gestor de objetivos de ahorro y seguimiento de inversiones
-Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento en local, modo claro/oscuro y visualización de datos.  
+#### 📊 Gestor de objetivos de ahorro
+Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento local y modo claro/oscuro.  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### Gestor de objetivos de ahorro  ->  🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro) 
-
 <p align="center">
-  <img src="./assets/savements_app/ahorro1.png" width="400" height="400"/>
-  <img src="./assets/savements_app/ahorro2.png" width="400" height="400"/>
+  <img src="./assets/savements_app/ahorro1.png" width="400"/>
+  <img src="./assets/savements_app/ahorro2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro3.png" width="400" height="400"/>
-  <img src="./assets/savements_app/ahorro4.png" width="400" height="400"/>
+  <img src="./assets/savements_app/ahorro3.png" width="400"/>
+  <img src="./assets/savements_app/ahorro4.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro5.png" width="400" height="400"/>
-  <img src="./assets/savements_app/ahorro6.png" width="400" height="400"/>
+  <img src="./assets/savements_app/ahorro5.png" width="400"/>
+  <img src="./assets/savements_app/ahorro6.png" width="400"/>
 </p>
 
+🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro)
 
- ### Seguimiento de inversiones  ->  🔗 [Repositorio](https://github.com/doblep97/investments_app)  
+---
+
+#### 📈 Seguimiento de inversiones
+App para llevar un control de inversiones con gráficas, tablas y almacenamiento local.  
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <p align="center">
-  <img src="./assets/investments_app/inves1.png" width="400" height="400"/>
-  <img src="./assets/investments_app/inves2.png" width="400" height="400"/>
+  <img src="./assets/investments_app/inves1.png" width="400"/>
+  <img src="./assets/investments_app/inves2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/investments_app/inves3.png" width="400" height="400"/>
-  <img src="./assets/investments_app/inves4.png" width="400" height="400"/>
-  <img src="./assets/investments_app/inves5.png" width="400" height="400"/>
+  <img src="./assets/investments_app/inves3.png" width="400"/>
+  <img src="./assets/investments_app/inves4.png" width="400"/>
 </p>
+
+<p align="center">
+  <img src="./assets/investments_app/inves5.png" width="400"/>
+</p>
+
+🔗 [Repositorio](https://github.com/doblep97/investments_app)
 
 ---
 
@@ -76,7 +87,7 @@ CRUD de tareas con creación, edición y borrado, almacenamiento local y drag & 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-🔗 [Repositorio](https://github.com/doblep97/Proyecto-gestor-tareas_vite-react-tailwind)  
+🔗 [Repositorio](https://github.com/doblep97/Proyecto-gestor-tareas_vite-react-tailwind)
 
 ---
 
@@ -87,8 +98,8 @@ Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y r
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-🔗 [Repositorio](https://github.com/doblep97/Modern-Art-Gallery-Project) 
-🔗 [Repositorio](https://github.com/doblep97/GathSessions-Project)
+- 🔗 [Modern Art Gallery Project](https://github.com/doblep97/Modern-Art-Gallery-Project)  
+- 🔗 [GathSessions Project](https://github.com/doblep97/GathSessions-Project)
 
 ---
 
