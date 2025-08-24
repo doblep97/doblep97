@@ -1,7 +1,10 @@
 # 👋 ¡Hola! Soy Pepe
 
-Soy **fisioterapeuta de formación** que, tras años dedicándome a la salud, decidió dar un giro y entrar en el mundo de la **tecnología y el desarrollo web**.  
-Gracias a mi curiosidad y creatividad descubrí que programar me permite lo mismo que en mi profesión anterior: **aportar soluciones útiles a las personas**, pero esta vez desde el software.
+Soy fisioterapeuta de formación que decidió dar un giro a su vida profesional para adentrarse en el mundo de **la tecnología**. Durante años me he dedicado a la salud, pero descubrí que programar me ofrece algo que siempre me ha motivado: **crear soluciones prácticas que satisfagan las necesidades reales de las personas**, aunque esta vez desde del software.  
+
+Llevo cerca de un año formándome y desarrollando proyectos personales con **HTML, CSS (Tailwind, SASS), JavaScript y React (con MUI)**, aplicando mi creatividad para transformar ideas en aplicaciones reales.  
+Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creciendo hacia el **Backend** y evolucionar hasta convertirme en **Fullstack Developer**, ampliando así mis herramientas y campos de acción.
+
 
 ---
 
