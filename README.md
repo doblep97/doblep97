@@ -103,18 +103,18 @@ Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y r
 ---
 
 ### 🎯 Objetivos
-- Iniciar mi carrera profesional como **Desarrollador Frontend**, aplicando mis conocimientos en React, JavaScript, MUI, entre otros.  
-- Mantener siempre un ojo en el **Backend**, con la meta de evolucionar al puesto de **Fullstack Developer** y abarcar todo el campo del desarrollo de software.  
-- Formar parte de proyectos vinculados a las **finanzas**, **startups** (donde mi perfil creativo puede aportar un gran valor) o al **sector salud**, combinando mi experiencia en fisioterapia con la tecnología.  
-- Desarrollar mi carrera en un entorno **remoto o híbrido**, que me permita colaborar de forma cercana con el equipo y al mismo tiempo disponer de flexibilidad.  
+- 💻 Iniciar mi carrera profesional como **Desarrollador Frontend**, aplicando mis conocimientos en React, JavaScript, MUI, entre otros.  
+- 🔄 Mantener siempre un ojo en el **Backend**, con la meta de evolucionar al puesto de **Fullstack Developer** y abarcar todo el campo del desarrollo de software.  
+- 📊 Formar parte de proyectos vinculados a las **finanzas**, 🚀 **startups** (donde mi perfil creativo puede aportar un gran valor) o ❤️ el **sector salud**, combinando mi experiencia en fisioterapia con la tecnología.  
+- 🌍 Desarrollar mi carrera en un entorno **remoto o híbrido**, que me permita colaborar de forma cercana con el equipo y al mismo tiempo disponer de flexibilidad.  
 
 ---
 
 ### 🌟 Sobre mí
-- De la **fisioterapia al software**: he aprendido a trabajar en equipo, a comunicarme con empatía, gestionar procesos de manera constante y establecer objetivos a lo largo del tiempo, habilidades que creo fundamentales en el desarrollo web.  
-- Soy una persona **creativa**, con facilidad para detectar mejoras en la funcionalidad de las aplicaciones y proponer ideas que aporten un valor añadido.  
-- Lo que más me motiva es la posibilidad de **transformar necesidades reales de las personas en soluciones tecnológicas**, uniendo mi experiencia previa al trato con la gente con la programación.  
-- Veo la **tecnología y la IA** como motores fundamentales del futuro y quiero ser parte de este cambio, contribuyendo con proyectos que tengan un impacto positivo en la vida de la gente.  
+- 🩺 De la **fisioterapia al software**: he aprendido a trabajar en equipo, a comunicarme con empatía, gestionar procesos de manera constante y establecer objetivos a lo largo del tiempo, habilidades que creo fundamentales en el desarrollo web.  
+- 🎨 Soy una persona **creativa**, con facilidad para detectar mejoras en la funcionalidad de las aplicaciones y proponer ideas que aporten un valor añadido.  
+- 💡 Lo que más me motiva es la posibilidad de **transformar necesidades reales de las personas en soluciones tecnológicas**, uniendo mi experiencia previa al trato con la gente con la programación.  
+- 🤖 Veo la **tecnología y la IA** como motores fundamentales del futuro y quiero ser parte de este cambio, contribuyendo con proyectos que tengan un impacto positivo en la vida de la gente.  
 
 ---
 
@@ -178,18 +178,18 @@ UI practice projects focused on **HTML, CSS and SASS** to build modern and respo
 ---
 
 ### 🎯 Goals
-- Start my career as a **Frontend Developer** applying React, JavaScript and MUI.  
-- Keep an eye on the **Backend** to eventually grow into a **Fullstack Developer**.  
-- Work on projects related to **personal finance**, **startups** (where my creativity can add value), or the **health sector**, combining my physiotherapy background with technology.  
-- Develop my career in **remote or hybrid environments**, collaborating closely with teams while keeping flexibility.  
+- 💻 Start my career as a **Frontend Developer** applying React, JavaScript and MUI.  
+- 🔄 Keep an eye on the **Backend** to eventually grow into a **Fullstack Developer**.  
+- 📊 Work on projects related to **personal finance**, 🚀 **startups** (where my creativity can add value), or ❤️ the **health sector**, combining my physiotherapy background with technology.  
+- 🌍 Develop my career in **remote or hybrid environments**, collaborating closely with teams while keeping flexibility.  
 
 ---
 
 ### 🌟 About me
-- From **physiotherapy to software**: I learned teamwork, empathy and communication with patients, skills that now apply to development.  
-- I’m a **creative person**, quick to spot improvements in apps and propose ideas that add value.  
-- Motivated by the chance to **turn real people’s needs into technology solutions**, combining my experience in healthcare with my passion for coding.  
-- I see **technology and AI** as key drivers of the future and I want to be part of this change by contributing to impactful projects.  
+- 🩺 From **physiotherapy to software**: I learned teamwork, empathy and communication with patients, skills that now apply to development.  
+- 🎨 I’m a **creative person**, quick to spot improvements in apps and propose ideas that add value.  
+- 💡 Motivated by the chance to **turn real people’s needs into technology solutions**, combining my experience in healthcare with my passion for coding.  
+- 🤖 I see **technology and AI** as key drivers of the future and I want to be part of this change by contributing to impactful projects.  
 
 ---
 
