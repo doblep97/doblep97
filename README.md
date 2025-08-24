@@ -1,3 +1,5 @@
+<img src="./assets/banner/banner.svg" alt="Pepe | Frontend Developer" width="100%" />
+
 # 👋 ¡Hola! Soy Pepe
 
 Soy fisioterapeuta de formación que decidió dar un giro a su vida profesional para adentrarse en el mundo de **la tecnología**. Durante años me he dedicado a la salud, pero descubrí que programar me ofrece algo que siempre me ha motivado: **crear soluciones prácticas que satisfagan las necesidades reales de las personas**, aunque esta vez desde el software.  
