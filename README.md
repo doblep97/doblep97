@@ -49,6 +49,7 @@ Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas 
 </p>
 
 <p align="center">
+  <img src="./assets/savements_app/ahorro_6.png" width="400"/>
   <img src="./assets/savements_app/ahorro_4.png" width="400"/>
 </p>
 
