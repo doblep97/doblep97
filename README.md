@@ -10,8 +10,17 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 ---
 
 ### 💻 Lenguajes que utilizo
-- **Frontend**: HTML · CSS (Tailwind, SASS) · JavaScript · React (con MUI)  
-- **Otros**: Python (en proceso de retomar y repasar conceptos)  
+- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+ · ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+ (![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+, ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+) · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+ · ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+ (con ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+)  
+- **Otros**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ (en proceso de retomar y repasar conceptos)  
 
 ---
 
