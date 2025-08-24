@@ -26,14 +26,42 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 ---
 
 ### 🚀 Proyectos personales
-- **Coney – Calculadora de ahorro y planificador de inversiones**  
-  App para gestionar finanzas personales, con autenticación y tablas dinámicas.  
 
-- **Gestor de tareas**  
-  CRUD de tareas con almacenamiento local y drag & drop para organizar.  
+#### 📊 Gestor de objetivos de ahorro y planificador de inversiones
+Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas de progreso, formularios controlados y visualización de datos.  
 
-- **Diseño y estilaje de webs**  
-  Maquetaciones modernas con **Tailwind**, **SASS** y **Material UI**.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro)  
+🔗 [Repositorio](https://github.com/doblep97/investments_app)  
+
+
+---
+
+#### ✅ Gestor de tareas
+CRUD de tareas con creación, edición y borrado, almacenamiento local y drag & drop para organizar.  
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+🔗 [Repositorio](https://github.com/doblep97/Proyecto-gestor-tareas_vite-react-tailwind)  
+
+---
+
+#### 🎨 Diseño y estilaje de webs
+Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y responsivas.  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+🔗 [Repositorio](https://github.com/doblep97/Modern-Art-Gallery-Project) 
+🔗 [Repositorio](https://github.com/doblep97/GathSessions-Project)
 
 ---
 
