@@ -35,7 +35,7 @@ Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### Gestor de objetivos de ahorro ###  ->  🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro) 
+### Gestor de objetivos de ahorro  ->  🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro) 
 
 <p align="center">
   <img src="./assets/savements_app/ahorro1.png" width="500" height="400"/>
@@ -53,7 +53,7 @@ Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas 
 </p>
 
 
- ### Seguimiento de inversiones ###  ->  🔗 [Repositorio](https://github.com/doblep97/investments_app)  
+ ### Seguimiento de inversiones  ->  🔗 [Repositorio](https://github.com/doblep97/investments_app)  
 
 <p align="center">
   <img src="./assets/investments_app/inves1.png" width="500" height="400"/>
