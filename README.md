@@ -38,32 +38,32 @@ Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas 
 🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro)  
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro1.png" width="400"/>
-  <img src="./assets/savements_app/ahorro2.png" width="400"/>
+  <img src="./assets/savements_app/ahorro1.png" width="500" height="400"/>
+  <img src="./assets/savements_app/ahorro2.png" width="500" height="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro3.png" width="400"/>
-  <img src="./assets/savements_app/ahorro4.png" width="400"/>
+  <img src="./assets/savements_app/ahorro3.png" width="500" height="400"/>
+  <img src="./assets/savements_app/ahorro4.png" width="500" height="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro5.png" width="400"/>
-  <img src="./assets/savements_app/ahorro6.png" width="400"/>
+  <img src="./assets/savements_app/ahorro5.png" width="500" height="400"/>
+  <img src="./assets/savements_app/ahorro6.png" width="500" height="400"/>
 </p>
 
 
 🔗 [Repositorio](https://github.com/doblep97/investments_app)  
 
 <p align="center">
-  <img src="./assets/investments_app/inves1.png" width="400"/>
-  <img src="./assets/investments_app/inves2.png" width="400"/>
+  <img src="./assets/investments_app/inves1.png" width="500" height="400"/>
+  <img src="./assets/investments_app/inves2.png" width="500" height="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/investments_app/inves3.png" width="400"/>
-  <img src="./assets/investments_app/inves4.png" width="400"/>
-  <img src="./assets/investments_app/inves5.png" width="400"/>
+  <img src="./assets/investments_app/inves3.png" width="500" height="400"/>
+  <img src="./assets/investments_app/inves4.png" width="500" height="400"/>
+  <img src="./assets/investments_app/inves5.png" width="500" height="400"/>
 </p>
 
 ---
