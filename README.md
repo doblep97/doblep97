@@ -1,11 +1,10 @@
 # 👋 ¡Hola! Soy Pepe
 
-Soy fisioterapeuta de formación que decidió dar un giro a su vida profesional para adentrarse en el mundo de **la tecnología**. Durante años me he dedicado a la salud, pero descubrí que programar me ofrece algo que siempre me ha motivado: **crear soluciones prácticas que satisfagan las necesidades reales de las personas**, aunque esta vez desde del software.  
+Soy fisioterapeuta de formación que decidió dar un giro a su vida profesional para adentrarse en el mundo de **la tecnología**. Durante años me he dedicado a la salud, pero descubrí que programar me ofrece algo que siempre me ha motivado: **crear soluciones prácticas que satisfagan las necesidades reales de las personas**, aunque esta vez desde el software.  
 
-Llevo cerca de un año formándome y desarrollando proyectos personales con **HTML, CSS (Tailwind, SASS), JavaScript y React (con MUI)**, aplicando mi creatividad para transformar ideas en aplicaciones reales.
+Llevo cerca de un año formándome y desarrollando proyectos personales con **HTML, CSS (Tailwind, SASS), JavaScript y React (con MUI)**, aplicando mi creatividad para transformar ideas en aplicaciones reales.  
 
-Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creciendo hacia el **Backend** y evolucionar hasta convertirme en **Fullstack Developer**, ampliando así mis herramientas y campos de acción.
-
+Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creciendo hacia el **Backend** y evolucionar hasta convertirme en **Fullstack Developer**, ampliando así mis herramientas y campos de acción.  
 
 ---
 
@@ -104,17 +103,26 @@ Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y r
 ---
 
 ### 🎯 Objetivos
-- Obtener mi **primer rol como Desarrollador Frontend** en el corto plazo.  
-- Seguir ampliando mis conocimientos en **Backend** y bases de datos para convertirme en **Fullstack Developer**.  
-- Desarrollar proyectos donde pueda unir **creatividad + impacto real en la vida de las personas**.  
+- Iniciar mi carrera como **Desarrollador Frontend**, aplicando mis conocimientos en React, JavaScript y MUI.  
+- Mantener siempre un ojo en el **Backend**, con la meta de evolucionar a **Fullstack Developer** y abarcar todo el ciclo de desarrollo.  
+- Formar parte de proyectos vinculados a **finanzas personales**, **startups** (donde mi perfil creativo puede aportar gran valor) o al **sector salud**, combinando mi experiencia en fisioterapia con la tecnología.  
+- Desarrollar mi carrera en un entorno **remoto o híbrido**, que me permita colaborar de forma cercana con el equipo y al mismo tiempo mantener flexibilidad.  
 
 ---
 
 ### 🌟 Sobre mí
-- De la **fisioterapia al software**: sé lo que significa reinventarse y adaptarse.  
-- Creo en la **tecnología y la IA** como herramientas que marcarán el futuro.  
-- Me motiva transformar **ideas en proyectos reales**.  
-- Persona creativa, con facilidad para aprender y trabajar en equipo.  
+- De la **fisioterapia al software**: aprendí a trabajar en equipo, a comunicarme con empatía y a gestionar procesos de manera constante, habilidades que ahora aplico en el desarrollo web.  
+- Soy una persona **creativa**, con facilidad para detectar mejoras en la funcionalidad de las aplicaciones y proponer ideas que aporten valor real.  
+- Lo que más me motiva es la posibilidad de **transformar necesidades reales de las personas en soluciones tecnológicas**, uniendo mi experiencia previa en salud con mi pasión por la programación.  
+- Veo la **tecnología y la IA** como motores fundamentales del futuro y quiero ser parte de ese cambio, contribuyendo con proyectos que tengan impacto positivo en la vida de la gente.  
+
+---
+
+### 📊 Stats de GitHub
+
+![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=doblep97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doblep97&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -122,5 +130,3 @@ Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](ENLACE_LINKEDIN)  
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:josegarciagomez05@gmail.com)
-
-
