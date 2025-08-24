@@ -49,7 +49,7 @@ Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámi
   <img src="./assets/savements_app/ahorro6.png" width="400"/>
 </p>
 
-🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro)
+🔗 [Gestor de objetivos de ahorro](https://github.com/doblep97/calculadora_objetivos_ahorro)
 
 ---
 
@@ -74,7 +74,7 @@ App para llevar un control de inversiones con gráficas, tablas y almacenamiento
   <img src="./assets/investments_app/inves5.png" width="400"/>
 </p>
 
-🔗 [Repositorio](https://github.com/doblep97/investments_app)
+🔗 [Seguimiento de inversiones](https://github.com/doblep97/investments_app)
 
 ---
 
@@ -86,7 +86,7 @@ CRUD de tareas con creación, edición y borrado, almacenamiento local y drag & 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-🔗 [Repositorio](https://github.com/doblep97/Proyecto-gestor-tareas_vite-react-tailwind)
+🔗 [Gestor de tareas](https://github.com/doblep97/Proyecto-gestor-tareas_vite-react-tailwind)
 
 ---
 
