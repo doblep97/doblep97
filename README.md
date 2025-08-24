@@ -28,7 +28,7 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 ### 🚀 Proyectos personales
 
 #### 📊 Gestor de objetivos de ahorro y planificador de inversiones
-Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas de progreso, formularios controlados y visualización de datos.  
+Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento en local, modo claro/oscuro y visualización de datos.  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
@@ -37,6 +37,13 @@ Aplicaciones para gestionar finanzas personales, con tablas dinámicas, líneas 
 
 🔗 [Repositorio](https://github.com/doblep97/calculadora_objetivos_ahorro)  
 🔗 [Repositorio](https://github.com/doblep97/investments_app)  
+
+<img src="./assets/savements_app/ahorros_1.png" width="400"/>
+<img src="./assets/savements_app/ahorro_2.png" width="400"/>
+<img src="./assets/savements_app/ahorro_5.png" width="400"/>
+<img src="./assets/savements_app/ahorro_3.png" width="400"/>
+<img src="./assets/savements_app/ahorro_4.png" width="400"/>
+
 
 
 ---
