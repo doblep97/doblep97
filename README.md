@@ -120,7 +120,7 @@ Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y r
 
 ### 📊 Stats de GitHub
 
-![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=doblep97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=doblep97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doblep97&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -128,4 +128,81 @@ Prácticas centradas en **HTML, CSS y SASS** para lograr interfaces modernas y r
 📫 **Cómo contactarme**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](ENLACE_LINKEDIN)  
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:josegarciagomez05@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:josegarciagomez05@gmail.com)  
+
+---
+
+<details>
+  <summary>🇬🇧 English version</summary>
+
+# 👋 Hi! I'm Pepe
+
+I’m a physiotherapist who decided to make a career change and dive into the world of **technology**.  
+For years I worked in healthcare, but I discovered that programming allows me to do something I’ve always enjoyed: **create practical solutions that meet real needs**, this time through software.  
+
+I’ve been learning and building projects for almost a year with **HTML, CSS (Tailwind, SASS), JavaScript and React (MUI)**, applying my creativity to transform ideas into real applications.  
+
+My goal is to start my career as a **Frontend Developer**, continue growing into **Backend**, and eventually become a **Fullstack Developer**, expanding my tools and knowledge.  
+
+---
+
+### 💻 Tech Stack
+
+- **Frontend**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+
+- **Other**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🚀 Personal Projects
+#### 📊 Savings Goals Manager
+App to plan and track savings goals. Includes dynamic tables, progress lines, controlled forms, local storage and light/dark mode.  
+
+#### 📈 Investment Tracker
+App to keep track of investments with charts, tables and local storage.  
+
+#### ✅ Task Manager
+CRUD app for tasks with create, edit and delete, local storage and drag & drop organization.  
+
+#### 🎨 Web Styling
+UI practice projects focused on **HTML, CSS and SASS** to build modern and responsive interfaces.  
+
+---
+
+### 🎯 Goals
+- Start my career as a **Frontend Developer** applying React, JavaScript and MUI.  
+- Keep an eye on the **Backend** to eventually grow into a **Fullstack Developer**.  
+- Work on projects related to **personal finance**, **startups** (where my creativity can add value), or the **health sector**, combining my physiotherapy background with technology.  
+- Develop my career in **remote or hybrid environments**, collaborating closely with teams while keeping flexibility.  
+
+---
+
+### 🌟 About me
+- From **physiotherapy to software**: I learned teamwork, empathy and communication with patients, skills that now apply to development.  
+- I’m a **creative person**, quick to spot improvements in apps and propose ideas that add value.  
+- Motivated by the chance to **turn real people’s needs into technology solutions**, combining my experience in healthcare with my passion for coding.  
+- I see **technology and AI** as key drivers of the future and I want to be part of this change by contributing to impactful projects.  
+
+---
+
+### 📊 GitHub Stats
+
+![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=doblep97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doblep97&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+📫 **Contact me**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](ENLACE_LINKEDIN)  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:josegarciagomez05@gmail.com)  
+
+</details>
