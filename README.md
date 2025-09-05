@@ -28,12 +28,26 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 
 ### 🚀 Proyectos personales
 
-#### 📊 Gestor de objetivos de ahorro
-Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento local y modo claro/oscuro. 
+#### 🛍️ SHOPPY – Ecommerce
+Aplicación de **e-commerce** desarrollada en React que simula un **marketplace online moderno**.  
+Incluye carrito de compra, gestión de productos, proceso de checkout y diseño **responsive** adaptable a escritorio y móvil.  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### ✨ Funcionalidades principales
+- 🛍️ **Catálogo de productos** con imágenes, descripciones y precios  
+- 🛒 **Carrito de compras dinámico** con control de unidades y eliminación de artículos  
+- 💳 **Checkout** con formulario de datos de envío y pago  
+- 📦 **Resumen de pedido** antes de la confirmación  
+- 📱 **Diseño responsive** para desktop y mobile  
+
+---
+
+### 📸 Vista previa
 
 <p align="center">
   <img src="./assets/SHOPPY/shoppy1.png" width="430"/>
@@ -47,7 +61,9 @@ Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámi
   <img src="./assets/SHOPPY/shoppy6.png" width="430"/>
 </p>
 
-Ejemplo mobile responsive
+---
+
+### 📱 Ejemplo mobile responsive
 <p align="center">
   <img src="./assets/SHOPPY/shoppy7.png" width="140" height="400"/>
   <img src="./assets/SHOPPY/shoppy8.png" width="140" height="400"/>
@@ -57,9 +73,7 @@ Ejemplo mobile responsive
   <img src="./assets/SHOPPY/shoppy12.png" width="140" height="450"/>
   <img src="./assets/SHOPPY/shoppy13.png" width="140" height="450"/>
 </p>
-<p align="center">
 
-</p>
 
 #### 📊 Gestor de objetivos de ahorro
 Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento local y modo claro/oscuro.  
