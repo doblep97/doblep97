@@ -29,6 +29,38 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 ### 🚀 Proyectos personales
 
 #### 📊 Gestor de objetivos de ahorro
+Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento local y modo claro/oscuro. 
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+<p align="center">
+  <img src="./assets/SHOPPY/shoppy1.png" width="400"/>
+  <img src="./assets/SHOPPY/shoppy2.png" width="400"/></p>
+<p align="center">
+  <img src="./assets/SHOPPY/shoppy3.png" width="400"/>   
+  <img src="./assets/SHOPPY/shoppy4.png" width="400"/>
+</p>
+<p align="center">
+  <img src="./assets/SHOPPY/shoppy5.png" width="400"/>
+  <img src="./assets/SHOPPY/shoppy6.png" width="400"/>
+</p>
+
+Ejemplo mobile responsive
+<p align="center">
+  <img src="./assets/SHOPPY/shoppy7.png" width="100" height="300"/>
+  <img src="./assets/SHOPPY/shoppy8.png" width="100" height="300"/>
+  <img src="./assets/SHOPPY/shoppy9.png" width="100" height="300"/>
+  <img src="./assets/SHOPPY/shoppy10.png" width="100" height="300"/>
+</p>
+<p align="center">
+  <img src="./assets/SHOPPY/shoppy11.png" width="100" height="300"/>
+  <img src="./assets/SHOPPY/shoppy12.png" width="100" height="300"/>
+  <img src="./assets/SHOPPY/shoppy13.png" width="100" height="300"/>
+</p>
+
+#### 📊 Gestor de objetivos de ahorro
 Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámicas, líneas de progreso, formularios controlados, almacenamiento local y modo claro/oscuro.  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
