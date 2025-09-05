@@ -48,26 +48,26 @@ Incluye carrito de compra, gestión de productos, proceso de checkout y diseño 
 ### 📸 Vista previa
 
 <p align="center">
-  <img src="./assets/SHOPPY/shoppy1.png" width="430"/>
-  <img src="./assets/SHOPPY/shoppy2.png" width="430"/></p>
+  <img src="./assets/SHOPPY/shoppy1.png" width="400"/>
+  <img src="./assets/SHOPPY/shoppy2.png" width="400"/></p>
 <p align="center">
-  <img src="./assets/SHOPPY/shoppy3.png" width="430"/>   
-  <img src="./assets/SHOPPY/shoppy4.png" width="430"/>
+  <img src="./assets/SHOPPY/shoppy3.png" width="400"/>   
+  <img src="./assets/SHOPPY/shoppy4.png" width="400"/>
 </p>
 <p align="center">
-  <img src="./assets/SHOPPY/shoppy5.png" width="430"/>
-  <img src="./assets/SHOPPY/shoppy6.png" width="430"/>
+  <img src="./assets/SHOPPY/shoppy5.png" width="400"/>
+  <img src="./assets/SHOPPY/shoppy6.png" width="400"/>
 </p>
 
 ### 📱 Ejemplo mobile responsive
 <p align="center">
-  <img src="./assets/SHOPPY/shoppy7.png" width="140" height="400"/>
-  <img src="./assets/SHOPPY/shoppy8.png" width="140" height="400"/>
-  <img src="./assets/SHOPPY/shoppy9.png" width="140" height="430"/>
-  <img src="./assets/SHOPPY/shoppy10.png" width="140" height="430"/>
-  <img src="./assets/SHOPPY/shoppy11.png" width="140" height="400"/>
-  <img src="./assets/SHOPPY/shoppy12.png" width="140" height="450"/>
-  <img src="./assets/SHOPPY/shoppy13.png" width="140" height="450"/>
+  <img src="./assets/SHOPPY/shoppy7.png" width="120" height="400"/>
+  <img src="./assets/SHOPPY/shoppy8.png" width="120" height="400"/>
+  <img src="./assets/SHOPPY/shoppy9.png" width="120" height="430"/>
+  <img src="./assets/SHOPPY/shoppy10.png" width="120" height="430"/>
+  <img src="./assets/SHOPPY/shoppy11.png" width="120" height="400"/>
+  <img src="./assets/SHOPPY/shoppy12.png" width="120" height="450"/>
+  <img src="./assets/SHOPPY/shoppy13.png" width="120" height="450"/>
 </p>
 
 🔗 [SHOPPY](https://github.com/doblep97/SHOPPY-MarketPlace)
@@ -83,18 +83,18 @@ Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámi
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro1.png" width="430"/>
-  <img src="./assets/savements_app/ahorro2.png" width="430"/>
+  <img src="./assets/savements_app/ahorro1.png" width="400"/>
+  <img src="./assets/savements_app/ahorro2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro3.png" width="430"/>
-  <img src="./assets/savements_app/ahorro4.png" width="430"/>
+  <img src="./assets/savements_app/ahorro3.png" width="400"/>
+  <img src="./assets/savements_app/ahorro4.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/savements_app/ahorro5.png" width="430"/>
-  <img src="./assets/savements_app/ahorro6.png" width="430"/>
+  <img src="./assets/savements_app/ahorro5.png" width="400"/>
+  <img src="./assets/savements_app/ahorro6.png" width="400"/>
 </p>
 
 🔗 [Gestor de objetivos de ahorro](https://github.com/doblep97/calculadora_objetivos_ahorro)
@@ -109,17 +109,17 @@ App para llevar un control de inversiones con gráficas, tablas y almacenamiento
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <p align="center">
-  <img src="./assets/investments_app/inves1.png" width="430"/>
-  <img src="./assets/investments_app/inves2.png" width="430"/>
+  <img src="./assets/investments_app/inves1.png" width="400"/>
+  <img src="./assets/investments_app/inves2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/investments_app/inves3.png" width="430"/>
-  <img src="./assets/investments_app/inves4.png" width="430"/>
+  <img src="./assets/investments_app/inves3.png" width="400"/>
+  <img src="./assets/investments_app/inves4.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="./assets/investments_app/inves5.png" width="430"/>
+  <img src="./assets/investments_app/inves5.png" width="400"/>
 </p>
 
 🔗 [Seguimiento de inversiones](https://github.com/doblep97/investments_app)
