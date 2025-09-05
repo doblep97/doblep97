@@ -49,15 +49,16 @@ Aplicación para planificar y seguir objetivos de ahorro. Incluye tablas dinámi
 
 Ejemplo mobile responsive
 <p align="center">
-  <img src="./assets/SHOPPY/shoppy7.png" width="100" height="300"/>
-  <img src="./assets/SHOPPY/shoppy8.png" width="100" height="300"/>
-  <img src="./assets/SHOPPY/shoppy9.png" width="100" height="300"/>
-  <img src="./assets/SHOPPY/shoppy10.png" width="100" height="300"/>
+  <img src="./assets/SHOPPY/shoppy7.png" width="150" height="400"/>
+  <img src="./assets/SHOPPY/shoppy8.png" width="150" height="400"/>
+  <img src="./assets/SHOPPY/shoppy9.png" width="150" height="400"/>
+  <img src="./assets/SHOPPY/shoppy10.png" width="150" height="400"/>
+    <img src="./assets/SHOPPY/shoppy11.png" width="150" height="400"/>
+  <img src="./assets/SHOPPY/shoppy12.png" width="150" height="400"/>
+  <img src="./assets/SHOPPY/shoppy13.png" width="150" height="400"/>
 </p>
 <p align="center">
-  <img src="./assets/SHOPPY/shoppy11.png" width="100" height="300"/>
-  <img src="./assets/SHOPPY/shoppy12.png" width="100" height="300"/>
-  <img src="./assets/SHOPPY/shoppy13.png" width="100" height="300"/>
+
 </p>
 
 #### 📊 Gestor de objetivos de ahorro
