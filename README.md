@@ -28,7 +28,7 @@ Mi objetivo es comenzar mi carrera como **Desarrollador Frontend**, seguir creci
 
 ### 🚀 Proyectos personales
 
-### 🛍️ SHOPPY – Ecommerce
+#### 🛍️ SHOPPY – Ecommerce
 Aplicación de **e-commerce** desarrollada en React que simula un **marketplace online moderno**.  
 Incluye carrito de compra, gestión de productos, proceso de checkout y diseño **responsive** adaptable a escritorio y móvil.  
 
@@ -37,7 +37,7 @@ Incluye carrito de compra, gestión de productos, proceso de checkout y diseño 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-### ✨ Funcionalidades principales
+##### ✨ Funcionalidades principales
 - 🛍️ **Catálogo de productos** con imágenes, descripciones y precios  
 - 🛒 **Carrito de compras dinámico** con control de unidades y eliminación de artículos  
 - 💳 **Checkout** con formulario de datos de envío y pago  
